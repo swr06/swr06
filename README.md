@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I mostly code in C, C++ and OpenGL 
 
 🔭 Here are the projects that I am currently working on :
-  ⚡ A Tiny Minecraft clone (pinned)
+  ⚡ A Tiny Minecraft clone (pinned) <br />
 
 🔭 And here are the projects on my bucket list : 
-  ⚡ A Tiny 3D Game Engine
-  ⚡ A paint program
-  ⚡ STL style Data Structures
+  ⚡ A Tiny 3D Game Engine <br />
+  ⚡ A paint program <br />
+  ⚡ STL style Data Structures <br />
 
 📫 Contact me :
 - Discord : swr06 #1899
