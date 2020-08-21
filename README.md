@@ -25,6 +25,7 @@ I mostly code in C, C++ and OpenGL
   ⚡ A paint program <br />
   ⚡ STL style Data Structures <br />
 
-📫 Contact me :
-- Discord : swr06 #1899
-- Email : samuelrasquinha@gmail.com
+📫 Contact me : <br /> 
+  ⚡ Discord : swr06 #1899 <br /> 
+  ⚡ Email : samuelrasquinha@gmail.com <br /> 
+
