@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I mostly code in C, C++ and OpenGL 
+I mostly code in C, C++ and OpenGL <br /> 
 
-🔭 Here are the projects that I am currently working on :
+🔭 Here are the projects that I am currently working on : <br /> 
   ⚡ A Tiny Minecraft clone (pinned) <br />
 
 🔭 And here are the projects on my bucket list : <br />
