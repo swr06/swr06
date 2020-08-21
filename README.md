@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! Welcome to my GitHub profile! 
+
+I mostly code in C, C++ and OpenGL 
+
+🔭 Here are the projects that I am currently working on :
+  1) A Tiny Minecraft clone (pinned)
+
+🔭 And here are the projects on my bucket list : 
+  1) A Tiny 3D Game Engine
+  2) A paint program
+  3) STL stlye Data Structures
+
+📫 Contact me :
+- Discord : swr06 #1899
+- Email : samuelrasquinha@gmail.com
