@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub profile! 
+# Hello 👋 And Welcome to my GitHub profile! : 
 
 <!--
 **swr06/swr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
