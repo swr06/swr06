@@ -20,7 +20,7 @@ I mostly code in C, C++ and OpenGL
 🔭 Here are the projects that I am currently working on :
   ⚡ A Tiny Minecraft clone (pinned) <br />
 
-🔭 And here are the projects on my bucket list : 
+🔭 And here are the projects on my bucket list : <br />
   ⚡ A Tiny 3D Game Engine <br />
   ⚡ A paint program <br />
   ⚡ STL style Data Structures <br />
