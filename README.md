@@ -20,11 +20,16 @@ I mostly code in C, C++ and OpenGL <br />
 🔭 Here are the projects that I am currently working on : <br /> 
   ⚡ A Tiny Minecraft clone (pinned) <br />
 
-🔭 And here are the projects on my bucket list : <br />
+🔭 And here are the projects on my to-do list : <br />
   ⚡ A Tiny 3D Game Engine <br />
   ⚡ A paint program <br />
   ⚡ STL style Data Structures <br />
-
+  
+  🔭 And here are the projects on my bucket list : <br />
+  ⚡ A Ray Tracer <br />
+  ⚡ Euclidean liquid simulation <br />
+  ⚡ A full fledged 3d game engine with pbr lighting etc. <br />
+  
 📫 Contact me : <br /> 
   ⚡ Discord : swr06 #1899 <br /> 
   ⚡ Email : samuelrasquinha@gmail.com <br /> 
