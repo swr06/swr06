@@ -31,7 +31,7 @@ I mostly code in C, C++ and OpenGL <br />
   ⚡ A full fledged 3d game engine with pbr lighting etc. <br />
   
   🔭 Stats : <br /> <br />
-  ![github stats](https://github-readme-stats.vercel.app/api?username=swr06&theme=gruvbox&show_icons=true&include_all_commits=true) <br /> <br />  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=swr06&theme=gruvbox&show_icons=true&include_all_commits=true) <br />
   ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swr06&theme=gruvbox&layout=compact) <br /> 
   
   📫 Contact me : <br /> 
