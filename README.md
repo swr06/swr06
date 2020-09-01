@@ -32,8 +32,7 @@ I mostly code in C, C++ and OpenGL <br />
   
   🔭 Stats : <br /> <br />
   ![github stats](https://github-readme-stats.vercel.app/api?username=swr06&theme=gruvbox&show_icons=true&include_all_commits=true) <br /> <br />  
-  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swr06&theme=gruvbox&layout=compact) <br />
-  <small> This card was by github readme stats </small> 
+  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swr06&theme=gruvbox&layout=compact) <br /> 
   
 <br /> 📫 Contact me : <br /> 
   ⚡ Discord : swr06 #1899 <br /> 
