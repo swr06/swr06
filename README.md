@@ -27,7 +27,7 @@ I mostly code in C, C++ and OpenGL <br />
   
   🔭 And here are the projects on my bucket list : <br />
   ⚡ A Ray Tracer <br />
-  ⚡ Euclidean liquid simulation <br />
+  ⚡ Visualizing euler's liquid simulation <br />
   ⚡ A full fledged 3d game engine with pbr lighting etc. <br />
   
   🔭 Stats : <br /> <br />
