@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I mostly code in C, C++ and OpenGL <br /> 
 
 🔭 Here are the projects that I am currently working on : <br /> 
-  ⚡ A Tiny 3D Game Engine (pinned) <br />
+  ⚡ Glide3D (A Tiny 3D Game Engine) (pinned) <br />
   ⚡ A Tiny Minecraft clone (pinned) <br />
 
 🔭 And here are the projects on my to-do list : <br />
