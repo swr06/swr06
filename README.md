@@ -35,6 +35,5 @@ I mostly code in C, C++ and OpenGL <br />
   ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swr06&theme=gruvbox&layout=compact) <br /> 
   
   📫 Contact me : <br /> 
-  ⚡ Discord : swr06 #1899 <br /> 
   ⚡ Email : samuelrasquinha@gmail.com <br /> 
 
