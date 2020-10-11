@@ -22,11 +22,14 @@ I mostly code in C, C++ and OpenGL <br />
   ⚡ A Tiny Minecraft clone (pinned) <br />
 
 🔭 And here are the projects on my to-do list : <br />
-  ⚡ A paint program <br />
-  ⚡ STL style Data Structures <br />
+  ⚡ A Realistic And High Poly Terrain Generator <br />
+  ⚡ Implementing the marching cubes algorithm <br />
+  ⚡ A Ray Tracer <br />
+  ⚡ A physically based renderer and engine <br />
+  ⚡ N Body simulation <br />
   
   🔭 And here are the projects on my bucket list : <br />
-  ⚡ A Ray Tracer <br />
+  ⚡ A Realtime Ray Tracer <br />
   ⚡ Visualizing euler's liquid simulation <br />
   ⚡ A full fledged 3d game engine with pbr lighting etc. <br />
   
