@@ -19,7 +19,6 @@ I mostly code in C, C++ and OpenGL <br />
 
 🔭 Here are the projects that I am currently working on : <br /> 
   ⚡ Glide3D (A Tiny 3D Game Engine) (pinned) <br />
-  ⚡ A Tiny Minecraft clone (pinned) <br />
 
 🔭 And here are the projects on my to-do list : <br />
   ⚡ A Realistic And High Poly Terrain Generator <br />
@@ -27,6 +26,7 @@ I mostly code in C, C++ and OpenGL <br />
   ⚡ A Ray Tracer <br />
   ⚡ A physically based renderer and engine <br />
   ⚡ N Body simulation <br />
+  ⚡ GPU Accelerated particle simulation <br />
   
   🔭 And here are the projects on my bucket list : <br />
   ⚡ A Realtime Ray Tracer <br />
